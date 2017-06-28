@@ -6,3 +6,6 @@ This repository serves as a window into a part of our internal Etiquette wiki. W
 
 As time goes on, we will be making more and more of our internal handbook public so that others may benefit from what we have learnt in our journey so far.
 
+## Getting Started
+
+- [Holidays](holidays.md)
