@@ -8,6 +8,7 @@ As time goes on, we will be making more and more of our internal handbook public
 
 ## Getting Started
 
+- [Daily Check-ins](daily-check-ins.md)
 - [Holidays](holidays.md)
 - [The Boy Scout Rule](the-boy-scout-rule.md)
 - [Working Remotely](working-remotely.md)
